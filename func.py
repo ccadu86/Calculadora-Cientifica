@@ -21,5 +21,5 @@ def divisao (valor1, valor2): # Def de divisão
     return x  # Retorna valor de X 
 
 def menu():
-        x = int(input("Escolha a operação desejada: \nDigite 1 para Soma. \nDigite 2 para Substração. \nDigite 3 para Multiplicação. \nDigite 4 para Divisão. \nDigite 5 para potenciação.  \nDigite 6 para Raiz quadrada. \nDigite 7 para Fatorial. \nDigite 8 para cálculo de seno, cosseno e tangente (em graus). \nDigite 9 para Logaritmo (base 10 e base e).\nDigite 0 para Sair. \n--> "))
+        x = int(input("Escolha a operação desejada por favor: \nDigite 1 para Soma. \nDigite 2 para Substração. \nDigite 3 para Multiplicação. \nDigite 4 para Divisão. \nDigite 5 para potenciação.  \nDigite 6 para Raiz quadrada. \nDigite 7 para Fatorial. \nDigite 8 para cálculo de seno, cosseno e tangente (em graus). \nDigite 9 para Logaritmo (base 10 e base e).\nDigite 0 para Sair. \n--> "))
         return x
